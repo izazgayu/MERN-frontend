@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">Gayathri Veterinary Hospital logo</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14877e"/>
+      <stop offset="1" stop-color="#0f625d"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="28" fill="url(#background)"/>
+  <path d="M78 26a35 35 0 1 0 3 45V52H57" fill="none" stroke="#fff7ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  <path d="m35 29-1-15 14 11M52 25l14-11-2 17" fill="#fff7ee" stroke="#fff7ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path d="m38 24 8 3M59 27l8-5" fill="none" stroke="#ff8a7a" stroke-linecap="round" stroke-width="3"/>
+  <path d="M27 37c-8 0-12 8-10 17 1 6 5 10 11 10" fill="none" stroke="#bce9dc" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="42" cy="43" r="2.5" fill="#fff7ee"/>
+  <circle cx="60" cy="43" r="2.5" fill="#fff7ee"/>
+  <path d="m47 51 4-3 4 3-4 4z" fill="#ff8a7a"/>
+  <path d="M51 55c-2 4-6 5-9 3m9-3c2 4 6 5 9 3" fill="none" stroke="#fff7ee" stroke-linecap="round" stroke-width="2.5"/>
+  <circle cx="24" cy="76" r="3" fill="#ff8a7a"/>
+  <circle cx="31" cy="71" r="2.6" fill="#ff8a7a"/>
+  <circle cx="38" cy="76" r="2.6" fill="#ff8a7a"/>
+</svg>
